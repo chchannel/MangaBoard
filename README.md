@@ -59,12 +59,12 @@ https://chchannel.booth.pm/items/7987295
 
 3. resourcesフォルダとその中身を実行フォルダと同じ場所に置いて下さい（コマの画像を作成するのに必要です）
 
-MangaBoard
-├── tauri-appmangaboard-proto.exe (または MangaBoard_Setup.exe)
-├── README.md
-├── LICENSE.md
-└── resources/
-　└── template_blank.psd <-- ※重要: 新規PSD生成に必須
+MangaBoard<br>
+├── tauri-appmangaboard-proto.exe (または MangaBoard_Setup.exe)<br>
+├── README.md<br>
+├── LICENSE.md<br>
+└── resources/<br>
+　└── template_blank.psd <-- ※重要: 新規PSD生成に必須<br>
 
 ## 🛠 フィードバックのお願い
 本ツールは現在テスト版（v0.95）です。
